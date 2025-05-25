@@ -15,6 +15,9 @@ This project is a **technical simulation** only. It does not:
 - Handle real money
 - Connect to financial institutions
 - Provide banking services
+  
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND.
+Developer not liable for misuse of this educational project.
 
 ## ✨ Features
 - 👥 **User Management**
