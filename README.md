@@ -48,7 +48,9 @@ banking_system/
 │   └── index.html    # Main page
 └── docs/             # Documentation
 
-## 🚀 Installation
+
+
+ ##🚀 Installation
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/banking-system.git
@@ -94,4 +96,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:muthelophindulo223@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([(https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/muthelo-phindulo-942961209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
