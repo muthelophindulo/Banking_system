@@ -16,7 +16,7 @@ Ever wondered how the backend of a banking system works? As a banking enthusiast
   - Secure authentication system
 - 💰 **Transactions**
   - Deposits and withdrawals
-  - Funds transfer between accounts
+  - Funds transfer between accounts within the database
 - 📊 **Account Services**
   - Balance inquiry
   - Account statements
