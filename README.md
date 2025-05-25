@@ -1,6 +1,6 @@
 # 🏦 Banking System Project
 
-![Project Banner](https://via.placeholder.com/800x200?text=Banking+System+Project) <!-- Replace with your actual banner image -->
+![Project Banner](https://www.freepik.com/premium-photo/currency-exchange-concepts-interbank-payments-use-money-transfer-global-business-fintech-finance-technology-online-banking-online-banking-interbank-payment-concept_275212624.htm#fromView=keyword&page=1&position=14&uuid=b6b11600-2be5-4fa6-b4f9-6e20bb659d9d&query=Banking+Banner)
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![MySQL Version](https://img.shields.io/badge/mysql-5.7%2B-orange)](https://mysql.com)
@@ -56,8 +56,7 @@ banking_system/
 │   ├── js/           # JavaScript
 │   └── index.html    # Main page
 └── docs/             # Documentation
-
-
+ ```
 
  ##🚀 Installation
 1. **Clone the repository**
