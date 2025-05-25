@@ -5,7 +5,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://python.org)
 [![MySQL Version](https://img.shields.io/badge/mysql-5.7%2B-orange)](https://mysql.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/phindulo.dev/banking_system?style=social)]
+[![GitHub Stars](https://img.shields.io/github/stars/(https://github.com/muthelophindulo/Banking_system)?style=social)
 
 ## 🌟 Overview
 Ever wondered how the backend of a banking system works? As a banking enthusiast, I've created this project to explore the inner workings of financial systems. This is my personal journey to understand and experience what powers modern banking operations.
