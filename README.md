@@ -10,6 +10,12 @@
 ## 🌟 Overview
 Ever wondered how the backend of a banking system works? As a banking enthusiast, I've created this project to explore the inner workings of financial systems. This is my personal journey to understand and experience what powers modern banking operations.
 
+## ⚠️ Legal Notice
+This project is a **technical simulation** only. It does not:
+- Handle real money
+- Connect to financial institutions
+- Provide banking services
+
 ## ✨ Features
 - 👥 **User Management**
   - Account creation, update, and deletion
