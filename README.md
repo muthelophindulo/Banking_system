@@ -1,4 +1,4 @@
-# 🏦 Banking System 
+# 🏦 Banking System | SecureBank
 
 ![Project Banner](https://www.shutterstock.com/image-vector/online-banking-login-protection-concept-600nw-2125197293.jpg)
 
@@ -8,7 +8,7 @@
 
 
 ## 🌟 Overview
-Ever wondered how the backend of a banking system works? As a banking enthusiast, I've created this project to explore the inner workings of financial systems. This is my personal journey to understand and experience what powers modern banking operations.
+Ever wondered how the backend of a banking system works? As a banking enthusiast, I've created this project to explore the inner workings of financial systems. This is my personal journey to understand and experience what powers modern banking operations i decided to name this project SecureBank because it is what most of us want when we bank with a specefic bank we want our money to be securely stored safely.
 
 ## ⚠️ Legal Notice
 This project is a **technical simulation** only. It does not:
@@ -44,18 +44,14 @@ Developer not liable for misuse of this educational project.
 ## 🗂️ Project Structure
 ```bash
 banking_system/
-├── backend/          # Python application code
-│   ├── app.py        # Main application
-│   ├── models/       # Database models
-│   └── services/     # Business logic
-├── database/         # MySQL files
-│   ├── schema.sql    # Database schema
-│   └── queries/      # SQL queries
-├── frontend/         # UI files
-│   ├── css/          # Stylesheets
-│   ├── js/           # JavaScript
-│   └── index.html    # Main page
-└── docs/             # Documentation
+├── static/            #for js and css
+├── templates/         # MySQL files
+│   ├── base.html
+│   ├── login.html
+│   ├── content.html  
+│   └── register.html
+└──app.py             # Python application code
+└──requirements.txt   #the project dependencies      
  ```
 
 ## 🚀 Installation
@@ -64,23 +60,13 @@ banking_system/
    git clone https://github.com/yourusername/banking-system.git
    cd banking-system
    ```
-
-2. **Database Setup** 🗃️
-   ```bash
-   mysql -u root -p < database/schema.sql
-   ```
-
-3. **Python Dependencies** 🐍
+2. **Python Dependencies** 🐍
    ```bash
    pip install -r requirements.txt
    ```
-
-4. **Configuration** ⚙️
-   Update `backend/config.py` with your database credentials
-
-5. **Run the Application** ▶️
+3. **Run the Application** ▶️
    ```bash
-   python backend/app.py
+   python app.py
    ```
 
 ## 📈 Future Roadmap
