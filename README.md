@@ -45,7 +45,7 @@ Developer not liable for misuse of this educational project.
 ```bash
 banking_system/
 ├── static/            #for js and css
-├── templates/         # MySQL files
+├── templates/         #html templates
 │   ├── base.html
 │   ├── login.html
 │   ├── content.html  
